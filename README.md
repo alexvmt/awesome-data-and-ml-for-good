@@ -44,7 +44,7 @@ This is of course a very broad definition and specific applications and use case
 
 ## indirect impact
 
-TBD
+To put it simply, one could work in a data role (e. g. in IT, marketing, finance, logistics, customer support or a cross-functional team) at an organization that serves a good cause (e. g. a charity or social business).
 
 
 
