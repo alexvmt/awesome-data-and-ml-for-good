@@ -65,6 +65,7 @@ To put it simply, one could work in a data role (e. g. in IT, marketing, finance
 - https://op.europa.eu/en/web/eudatathon
 - https://www.helmholtz-hida.de/en/
 - https://n3xtcoder.org/
+- https://www.exc.uni-konstanz.de/collective-behaviour/news-and-events/news/details/emac23-coding-challenge-participate-now/
 
 
 
@@ -90,6 +91,10 @@ To put it simply, one could work in a data role (e. g. in IT, marketing, finance
 - http://www.deltanalytics.org/
 - https://www.feld-m.de/datenambulanz/
 - https://www.solveforgood.org/
+- https://www.moveapps.org/
+- https://www.moveapps.org/
+- [AI for Conservation Slack](https://beerys.github.io/#slack)
+- Work on Climate Slack
 
 
 
