@@ -13,8 +13,7 @@ and [this](https://github.com/dssg/hitchhikers-guide))
 that collect information on this topic. We aim to be complementary. Contributions are welcome. Just go ahead and create a pull request!
 
 But what does *"using data and machine learing for good causes"* mean anyway?
-In a nutshell, one could say that a data-driven application or machine learning use case contributes to a good cause
-if it is alligned with at least one of the United Nations' Agenda 2030 Sustainable Development Goals.
+In a nutshell, one could say that a data-driven application or machine learning use case contributes to a good cause if it is alligned with at least one of the United Nations' Agenda 2030 Sustainable Development Goals.V
 This is of course a very broad definition and specific applications and use cases should always be assessed with more scrutiny.
 
 
@@ -65,6 +64,9 @@ TBD
 - https://op.europa.eu/en/web/eudatathon
 - https://www.helmholtz-hida.de/en/
 - https://n3xtcoder.org/
+- https://openproblems.bio/events/2023-08_neurips/
+- https://conservationxlabs.com/
+- 
 
 
 
@@ -74,6 +76,9 @@ TBD
 - https://escience.washington.edu/using-data-science/data-science-for-social-good/
 - https://dsi.ubc.ca/data-science-social-good
 - special tracks and workshops at NeurIPS, ICML, ICLR and PAW Climate
+- https://talmolab.org/
+- https://www.birds.cornell.edu/ccb/
+
 
 
 
@@ -90,12 +95,18 @@ TBD
 - http://www.deltanalytics.org/
 - https://www.feld-m.de/datenambulanz/
 - https://www.solveforgood.org/
+- https://www.fruitpunch.ai/
 
 
 
 ### governments and ngos
 
 - https://www.unglobalpulse.org/
+- https://arbimon.rfcx.org/
+- https://www.openacousticdevices.info
+- https://arribada.org/
+- https://www.earthspecies.org/
+
 
 
 
@@ -103,3 +114,4 @@ TBD
 
 - https://www.microsoft.com/en-gb/ai/ai-for-good
 - https://ai.google/social-good
+
