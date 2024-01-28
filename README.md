@@ -64,6 +64,7 @@ TBD
 - https://op.europa.eu/en/web/eudatathon
 - https://www.helmholtz-hida.de/en/
 - https://n3xtcoder.org/
+- https://www.exc.uni-konstanz.de/collective-behaviour/news-and-events/news/details/emac23-coding-challenge-participate-now/
 - https://openproblems.bio/events/2023-08_neurips/
 - https://conservationxlabs.com/
 - 
@@ -95,6 +96,10 @@ TBD
 - http://www.deltanalytics.org/
 - https://www.feld-m.de/datenambulanz/
 - https://www.solveforgood.org/
+- https://www.moveapps.org/
+- https://www.moveapps.org/
+- [AI for Conservation Slack](https://beerys.github.io/#slack)
+- Work on Climate Slack
 - https://www.fruitpunch.ai/
 
 
@@ -109,9 +114,7 @@ TBD
 
 
 
-
 ### private sector
 
 - https://www.microsoft.com/en-gb/ai/ai-for-good
 - https://ai.google/social-good
-
