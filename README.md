@@ -13,8 +13,7 @@ and [this](https://github.com/dssg/hitchhikers-guide))
 that collect information on this topic. We aim to be complementary. Contributions are welcome. Just go ahead and create a pull request!
 
 But what does *"using data and machine learing for good causes"* mean anyway?
-In a nutshell, one could say that a data-driven application or machine learning use case contributes to a good cause
-if it is alligned with at least one of the United Nations' Agenda 2030 Sustainable Development Goals.
+In a nutshell, one could say that a data-driven application or machine learning use case contributes to a good cause if it is alligned with at least one of the United Nations' Agenda 2030 Sustainable Development Goals.
 This is of course a very broad definition and specific applications and use cases should always be assessed with more scrutiny.
 
 
@@ -66,6 +65,8 @@ To put it simply, one could work in a data role (e. g. in IT, marketing, finance
 - https://www.helmholtz-hida.de/en/
 - https://n3xtcoder.org/
 - https://www.exc.uni-konstanz.de/collective-behaviour/news-and-events/news/details/emac23-coding-challenge-participate-now/
+- https://openproblems.bio/events/2023-08_neurips/
+- https://conservationxlabs.com/
 
 
 
@@ -75,6 +76,8 @@ To put it simply, one could work in a data role (e. g. in IT, marketing, finance
 - https://escience.washington.edu/using-data-science/data-science-for-social-good/
 - https://dsi.ubc.ca/data-science-social-good
 - special tracks and workshops at NeurIPS, ICML, ICLR and PAW Climate
+- https://talmolab.org/
+- https://www.birds.cornell.edu/ccb/
 
 
 
@@ -95,12 +98,17 @@ To put it simply, one could work in a data role (e. g. in IT, marketing, finance
 - https://www.moveapps.org/
 - [AI for Conservation Slack](https://beerys.github.io/#slack)
 - Work on Climate Slack
+- https://www.fruitpunch.ai/
 
 
 
 ### governments and ngos
 
 - https://www.unglobalpulse.org/
+- https://arbimon.rfcx.org/
+- https://www.openacousticdevices.info
+- https://arribada.org/
+- https://www.earthspecies.org/
 
 
 
