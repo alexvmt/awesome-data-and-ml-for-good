@@ -13,7 +13,7 @@ and [this](https://github.com/dssg/hitchhikers-guide))
 that collect information on this topic. We aim to be complementary. Contributions are welcome. Just go ahead and create a pull request!
 
 But what does *"using data and machine learing for good causes"* mean anyway?
-In a nutshell, one could say that a data-driven application or machine learning use case contributes to a good cause if it is alligned with at least one of the United Nations' Agenda 2030 Sustainable Development Goals.V
+In a nutshell, one could say that a data-driven application or machine learning use case contributes to a good cause if it is alligned with at least one of the United Nations' Agenda 2030 Sustainable Development Goals.
 This is of course a very broad definition and specific applications and use cases should always be assessed with more scrutiny.
 
 
@@ -43,7 +43,7 @@ This is of course a very broad definition and specific applications and use case
 
 ## indirect impact
 
-TBD
+To put it simply, one could work in a data role (e. g. in IT, marketing, finance, logistics, customer support or a cross-functional team) at an organization that serves a good cause (e. g. a charity or social business).
 
 
 
@@ -67,7 +67,6 @@ TBD
 - https://www.exc.uni-konstanz.de/collective-behaviour/news-and-events/news/details/emac23-coding-challenge-participate-now/
 - https://openproblems.bio/events/2023-08_neurips/
 - https://conservationxlabs.com/
-- 
 
 
 
@@ -79,7 +78,6 @@ TBD
 - special tracks and workshops at NeurIPS, ICML, ICLR and PAW Climate
 - https://talmolab.org/
 - https://www.birds.cornell.edu/ccb/
-
 
 
 
