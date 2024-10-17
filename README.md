@@ -31,6 +31,8 @@ This is of course a very broad definition and specific applications and use case
 - https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-social-good-c71edab270d3
 - https://towardsdatascience.com/why-data-for-good-lacks-precision-87fb48e341f1
 - https://www.undp.org/blog/using-ai-help-achieve-sustainable-development-goals
+- https://carlos-gg.github.io/digitalgarden/AI4G/AI4good/
+- https://carlos-gg.github.io/AI4G_mindmap/
 
 
 
@@ -43,7 +45,7 @@ This is of course a very broad definition and specific applications and use case
 
 ## indirect impact ideas
 
-To put it simply, one could work in a data role (e. g. in IT, marketing, finance, logistics, customer support or a cross-functional team) at an organization that serves a good cause (e. g. a charity or social business working on child right or environmental issues).
+To put it simply, one could work in a data role (e. g. in IT, marketing, finance, logistics, customer support or a cross-functional team) at an organization that serves a good cause (e. g. a charity or social business working on child right or environmental issues) or a company that builds products or provides services that are important for solving societal or environmental challenges.
 
 
 
@@ -66,11 +68,10 @@ To put it simply, one could work in a data role (e. g. in IT, marketing, finance
 - https://n3xtcoder.org/
 - https://www.exc.uni-konstanz.de/collective-behaviour/news-and-events/news/details/emac23-coding-challenge-participate-now/
 - https://openproblems.bio/events/2023-08_neurips/
-- https://conservationxlabs.com/
 
 
 
-### science and research labs
+### science, research labs and education
 
 - https://www.dssgfellowship.org/
 - https://escience.washington.edu/using-data-science/data-science-for-social-good/
@@ -78,6 +79,8 @@ To put it simply, one could work in a data role (e. g. in IT, marketing, finance
 - special tracks and workshops at [NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/) and [PAW Climate](https://predictiveanalyticsworldclimate.com/)
 - https://talmolab.org/
 - https://www.birds.cornell.edu/ccb/
+- https://conservationxlabs.com/
+- https://ai-4-all.org/
 
 
 
@@ -98,6 +101,7 @@ To put it simply, one could work in a data role (e. g. in IT, marketing, finance
 - [AI for Conservation Slack](https://beerys.github.io/#slack)
 - [Work on Climate Slack](https://workonclimate.slack.com/signup#/domain-signup)
 - https://www.fruitpunch.ai/
+- https://hack4impact.org/
 
 
 
